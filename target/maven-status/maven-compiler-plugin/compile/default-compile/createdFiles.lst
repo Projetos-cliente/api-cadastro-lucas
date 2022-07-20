@@ -1,0 +1,8 @@
+br\com\cruzvita\cadastrapessoa\CadastraPessoaApplication.class
+br\com\cruzvita\cadastrapessoa\model\Pessoa.class
+br\com\cruzvita\cadastrapessoa\dto\PessoaDTO.class
+br\com\cruzvita\cadastrapessoa\controller\PessoaController.class
+br\com\cruzvita\cadastrapessoa\repository\PessoaRepository.class
+br\com\cruzvita\cadastrapessoa\common\SwaggerConfig.class
+br\com\cruzvita\cadastrapessoa\service\PessoaService.class
+br\com\cruzvita\cadastrapessoa\common\ModelMapperConfig.class
